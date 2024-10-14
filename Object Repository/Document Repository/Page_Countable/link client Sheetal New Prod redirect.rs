@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>link client Sheetal New Prod redirect</name>
+   <tag></tag>
+   <elementGuidId>edd6fb8a-2bfc-4113-b5b2-592e9d6fced8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Sheetal New Prod')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a50fd727-f35c-4d2c-be96-726f7a1cbee2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:void(0)</value>
+      <webElementGuid>a8d4c877-33f5-4b32-aedb-5485ca6769c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-link</value>
+      <webElementGuid>b83882fa-7806-4c48-b7ce-a2cadafca0ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Sheetal New Prod</value>
+      <webElementGuid>0dfa030c-aabb-4439-82e2-8f173b55c033</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-tab-content-3-0&quot;)/div[@class=&quot;mat-mdc-tab-body-content ng-tns-c2396234108-303 ng-trigger ng-trigger-translateTab&quot;]/div[@class=&quot;card table-responsive ng-star-inserted&quot;]/table[@class=&quot;mat-mdc-table mdc-data-table__table cdk-table mat-sort customized-sort table-countable cell-p-8&quot;]/tbody[@class=&quot;mdc-data-table__content&quot;]/tr[@class=&quot;mat-mdc-row mdc-data-table__row cdk-row ng-star-inserted&quot;]/td[@class=&quot;mat-mdc-cell mdc-data-table__cell cdk-cell cdk-column-corporationName mat-column-corporationName ng-star-inserted&quot;]/a[@class=&quot;text-link&quot;]</value>
+      <webElementGuid>d0617528-e084-403b-878d-034406d7f863</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-tab-body[@id='mat-tab-content-3-0']/div/div/table/tbody/tr[13]/td[3]/a</value>
+      <webElementGuid>4253e6ac-5519-45c6-8d55-6c5e68c513f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Sheetal New Prod')]</value>
+      <webElementGuid>ac41e349-75f0-4777-9d06-55de8f32946c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SheetalNewProd'])[1]/following::a[1]</value>
+      <webElementGuid>b3b95b51-7828-45e8-95a3-892d3228fda0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[17]/following::a[2]</value>
+      <webElementGuid>300afc7c-c053-4b62-a1f7-abfc23426b86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Corporation'])[13]/preceding::a[1]</value>
+      <webElementGuid>1de7d77b-3ab1-4952-9be3-944ce0e5e304</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Integrations'])[13]/preceding::a[1]</value>
+      <webElementGuid>d15db371-91f7-4d6d-83db-f813fc752b73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Sheetal New Prod']/parent::*</value>
+      <webElementGuid>71021964-8938-4b83-a2cb-d19407f710f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'javascript:void(0)')])[37]</value>
+      <webElementGuid>db5b7300-fe62-4b46-a94a-9c44d16ead55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[13]/td[3]/a</value>
+      <webElementGuid>277a377f-42b7-4871-b1bb-87d39aa4d0ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'javascript:void(0)' and (text() = ' Sheetal New Prod' or . = ' Sheetal New Prod')]</value>
+      <webElementGuid>ebd00905-293b-41b1-887e-a0c1262cd057</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

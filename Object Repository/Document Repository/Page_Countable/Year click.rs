@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Year click</name>
+   <tag></tag>
+   <elementGuidId>4946f451-aade-4c98-a752-41a2e78e2543</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[(text() = '2023')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>mat-panel-title.mat-expansion-panel-header-title.ng-tns-c1676997785-179 > div.title-content > span.item-title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c1f2a2bd-32e0-4c0d-b39f-a4b2f9dae5a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>item-title</value>
+      <webElementGuid>872495e5-9c47-412e-a72f-806a21e4e432</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>2023</value>
+      <webElementGuid>692a553a-5f7e-4135-81fe-fa2dd3a364f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-expansion-panel-header-60&quot;)/span[@class=&quot;mat-content ng-tns-c1676997785-179&quot;]/mat-panel-title[@class=&quot;mat-expansion-panel-header-title ng-tns-c1676997785-179&quot;]/div[@class=&quot;title-content&quot;]/span[@class=&quot;item-title&quot;]</value>
+      <webElementGuid>9a931450-e49a-4a45-ae74-7f5d2ca68d88</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-expansion-panel-header[@id='mat-expansion-panel-header-60']/span/mat-panel-title/div/span[3]</value>
+      <webElementGuid>2d98b344-33fa-442d-9bcd-6f13a056fb57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(0)'])[2]/following::span[5]</value>
+      <webElementGuid>1983da00-3bbd-4fbc-808b-6a067d3fd8c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Final Documents'])[1]/following::span[6]</value>
+      <webElementGuid>750f6585-d654-4a01-a9ca-0f59e3b6311d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Compilation'])[2]/preceding::span[4]</value>
+      <webElementGuid>f3bd3025-116f-443f-96ae-b62291460aec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='COM-SHE-Dec312023'])[2]/preceding::span[9]</value>
+      <webElementGuid>b26d62ce-0641-4139-9bdf-b1f3a3ce6f13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='2023']/parent::*</value>
+      <webElementGuid>78fededa-62af-44cd-ae5f-8a4ab8203e07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-expansion-panel[4]/mat-expansion-panel-header/span/mat-panel-title/div/span[3]</value>
+      <webElementGuid>064836c7-2fa2-4d17-b76b-a80ba1da8d81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '2023' or . = '2023')]</value>
+      <webElementGuid>cc3ff2c7-bbbf-4111-b06d-905f5c145164</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

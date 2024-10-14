@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>TC05 01 File kebab for download then delete</name>
+   <tag></tag>
+   <elementGuidId>da7f612d-18c7-4aa1-ab19-41e2b64c679a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='tbDoc-TB-2-02 Rename Via Automation .csv']/div/button/span[2]/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.cdk-drag.list-item-content > button.mat-mdc-menu-trigger.kebab-menu-button.mdc-button.mat-mdc-button.mat-unthemed.mat-mdc-button-base > span.mdc-button__label > img[alt=&quot;menu&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>5e81cf6d-3d42-4cf9-8158-b1574d7b1310</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/assets/images/ui-uplift-icons/global/kebab-menu-icon.svg</value>
+      <webElementGuid>5a3aee8c-82b5-4231-969c-9e807c87d4a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>menu</value>
+      <webElementGuid>5692b7b7-3b2e-4608-9b26-13c88b78f53c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tbDoc-TB-1-02 Rename Via Automation .csv&quot;)/div[@class=&quot;cdk-drag list-item-content&quot;]/button[@class=&quot;mat-mdc-menu-trigger kebab-menu-button mdc-button mat-mdc-button mat-unthemed mat-mdc-button-base&quot;]/span[@class=&quot;mdc-button__label&quot;]/img[1]</value>
+      <webElementGuid>8cd61fab-f699-4494-baf6-7a2d9eaff0a9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='tbDoc-TB-1-02 Rename Via Automation .csv']/div/button/span[2]/img</value>
+      <webElementGuid>4456b72c-83ce-4ef6-85ba-f15209bca92d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>(//img[@alt='menu'])[17]</value>
+      <webElementGuid>73f7600b-cad1-4118-8d18-908c8c660707</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/div/button/span[2]/img</value>
+      <webElementGuid>1a9e7eee-c585-4bb1-9810-1adff232846d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/assets/images/ui-uplift-icons/global/kebab-menu-icon.svg' and @alt = 'menu']</value>
+      <webElementGuid>a66adb37-9c4d-44c2-908a-98c5b16e54b7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

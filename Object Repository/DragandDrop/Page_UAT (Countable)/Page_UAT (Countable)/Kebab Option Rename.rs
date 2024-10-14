@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Kebab Option Rename</name>
+   <tag></tag>
+   <elementGuidId>286231df-fc1a-466b-bccb-59de0d6c5739</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.mat-mdc-menu-item-text > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*/text()[normalize-space(.)='Rename']/parent::*</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=menuitem[name=&quot;Rename&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ae9fac29-3681-485c-9bf2-8ae0ce0f204c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Rename</value>
+      <webElementGuid>46d69c7e-b63a-4984-aca4-c0c6211fea80</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-menu-panel-23&quot;)/div[@class=&quot;mat-mdc-menu-content ng-tns-c681116372-75&quot;]/button[@class=&quot;mat-mdc-menu-item mat-mdc-focus-indicator add-row-btn ng-tns-c681116372-75 cdk-focused cdk-mouse-focused&quot;]/span[@class=&quot;mat-mdc-menu-item-text&quot;]/span[1]</value>
+      <webElementGuid>6977c46f-c046-4c97-b6f9-d2a9714e37e0</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

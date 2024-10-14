@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Create button</name>
+   <tag></tag>
+   <elementGuidId>e7bc64a1-6243-4edf-b510-6e0fdd825742</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[(text() = 'Create' or . = 'Create')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.mat-mdc-dialog-actions.mdc-dialog__actions.dialog-footer.button-group > button.button-medium.mdc-button.mat-mdc-button.mdc-button--unelevated.mat-mdc-unelevated-button.mat-primary.mat-mdc-button-base > span.mdc-button__label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>46da7570-55f5-44f4-93d9-661c885638de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mdc-button__label</value>
+      <webElementGuid>45f72e21-61ff-44d6-97d7-c9f83127878f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Create</value>
+      <webElementGuid>a0b04301-49b4-497d-a90f-b73e12ed1ff9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-mdc-dialog-0&quot;)/div[@class=&quot;mdc-dialog__container&quot;]/div[@class=&quot;mat-mdc-dialog-surface mdc-dialog__surface&quot;]/div[@class=&quot;countable-dialog ng-star-inserted&quot;]/div[@class=&quot;mat-mdc-dialog-actions mdc-dialog__actions dialog-footer button-group&quot;]/button[@class=&quot;button-medium mdc-button mat-mdc-button mdc-button--unelevated mat-mdc-unelevated-button mat-primary mat-mdc-button-base&quot;]/span[@class=&quot;mdc-button__label&quot;]</value>
+      <webElementGuid>0061029d-30fb-4234-8348-c260d060746b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-dialog-container[@id='mat-mdc-dialog-0']/div/div/div/div[3]/button[2]/span[2]</value>
+      <webElementGuid>310728e1-e2cf-4f63-ac70-797c866823a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::span[5]</value>
+      <webElementGuid>7ad65939-7350-43fb-ac1d-32b9e7ad3884</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Type Folder Name'])[1]/following::span[7]</value>
+      <webElementGuid>3a2aefd2-04b0-4ac2-92c3-46828f55d055</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Create']/parent::*</value>
+      <webElementGuid>790d460c-9bc5-495c-88b6-f93ec9e99e7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/button[2]/span[2]</value>
+      <webElementGuid>00b83a13-030d-483f-a89f-0b2d829db9dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Create' or . = 'Create')]</value>
+      <webElementGuid>9c365c05-d751-4a88-bcd6-62b54fc1340c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

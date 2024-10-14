@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>kebab click</name>
+   <tag></tag>
+   <elementGuidId>cf27840c-e89f-41cf-9007-07667f6e77e7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//img[@alt='menu'])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.mat-mdc-menu-trigger.kebab-menu-button.mdc-button.mat-mdc-button.mat-unthemed.mat-mdc-button-base.ng-star-inserted.cdk-focused.cdk-mouse-focused > span.mdc-button__label > img[alt=&quot;menu&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>65543780-8e48-4db4-8b83-ff759870e8bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/assets/images/ui-uplift-icons/global/kebab-menu-icon.svg</value>
+      <webElementGuid>3bd010c8-3fb1-48a6-b728-761a0a096476</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>menu</value>
+      <webElementGuid>ee5acd67-a6e3-4b6c-88f0-a5bb52eec933</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-accordion-child-57&quot;)/div[@class=&quot;mat-expansion-panel-body ng-tns-c1859850774-171&quot;]/ul[@class=&quot;templates-list-items ng-star-inserted&quot;]/li[@class=&quot;list-item-content h-auto py-2&quot;]/button[@class=&quot;mat-mdc-menu-trigger kebab-menu-button mdc-button mat-mdc-button mat-unthemed mat-mdc-button-base ng-star-inserted cdk-focused cdk-mouse-focused&quot;]/span[@class=&quot;mdc-button__label&quot;]/img[1]</value>
+      <webElementGuid>b0cc514e-7986-40d7-805a-2d1e845f10eb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cdk-accordion-child-57']/div/ul/li/button/span[2]/img</value>
+      <webElementGuid>ca5d1ef1-d071-4645-a288-091bb737af83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>(//img[@alt='menu'])[2]</value>
+      <webElementGuid>4a7b9e8f-5316-4cef-b6be-fae977bd26a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/button/span[2]/img</value>
+      <webElementGuid>1883f17b-1dd1-46ca-9494-0f1899114793</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/assets/images/ui-uplift-icons/global/kebab-menu-icon.svg' and @alt = 'menu']</value>
+      <webElementGuid>6050ccc5-bec6-4031-b774-56ecf58ed9a6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

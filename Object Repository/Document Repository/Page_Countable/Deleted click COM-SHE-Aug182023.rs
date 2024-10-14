@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Deleted click COM-SHE-Aug182023</name>
+   <tag></tag>
+   <elementGuidId>be002f34-6655-4a68-b975-4b1a30de6952</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-expansion-panel-header[@id='mat-expansion-panel-header-100']/span/mat-panel-title/div/span[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div[title='COM-SHE-Aug182023'] span[class='item-title']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e2671f53-7ca6-4b49-9e77-fa23b4b3d63b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>item-title</value>
+      <webElementGuid>e7e57cec-eeae-4ad5-b312-c7a700ffdefb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>COM-SHE-Aug182023</value>
+      <webElementGuid>185a7fd1-a020-4469-8fcf-31ae08814805</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-expansion-panel-header-100&quot;)/span[@class=&quot;mat-content ng-tns-c1676997785-261&quot;]/mat-panel-title[@class=&quot;mat-expansion-panel-header-title ng-tns-c1676997785-261&quot;]/div[@class=&quot;title-content&quot;]/span[@class=&quot;item-title&quot;]</value>
+      <webElementGuid>266afe41-2db3-4328-ad65-51ef36f68d22</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-expansion-panel-header[@id='mat-expansion-panel-header-100']/span/mat-panel-title/div/span[3]</value>
+      <webElementGuid>1329cfa8-f5c4-4619-a738-03924aae5dba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(0)'])[16]/following::span[5]</value>
+      <webElementGuid>6ffa83a7-59c2-47b9-9126-c8f10435d329</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Final Documents'])[7]/following::span[6]</value>
+      <webElementGuid>9f4911f0-cbbf-4fbf-969e-a55a4b05c20b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Working Papers'])[8]/preceding::span[4]</value>
+      <webElementGuid>276dd49f-bc0b-4984-a9d1-aa180055c9c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='System Documents'])[8]/preceding::span[9]</value>
+      <webElementGuid>8de7e007-521b-48db-a0b5-ceb7673da49b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='COM-SHE-Aug182023']/parent::*</value>
+      <webElementGuid>76f2c861-3418-409b-b9d6-e7f9a58a7d83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-expansion-panel[7]/mat-expansion-panel-header/span/mat-panel-title/div/span[3]</value>
+      <webElementGuid>75ade1e4-1f94-4634-b48f-6eda1b90e07e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'COM-SHE-Aug182023' or . = 'COM-SHE-Aug182023')]</value>
+      <webElementGuid>68776f0f-9f5b-4408-9f7b-cd68d134b917</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

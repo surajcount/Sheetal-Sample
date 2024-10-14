@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>REV-SHE-Sep142023</name>
+   <tag></tag>
+   <elementGuidId>bd341ae6-d683-4148-9eaf-3cc32196d2dc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div[title='REV-SHE-Sep142023'] span[class='item-title']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[1]/app-root[1]/app-dashboard[1]/div[1]/div[1]/div[2]/app-client-engagement-info[1]/div[1]/div[2]/app-right-panel[1]/div[1]/div[1]/mat-tab-group[1]/div[1]/mat-tab-body[1]/div[1]/div[1]/div[4]/mat-accordion[1]/mat-expansion-panel[5]/div[1]/div[1]/mat-expansion-panel[2]/mat-expansion-panel-header[1]/span[1]/mat-panel-title[1]/div[1]/span[1]/img[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>fde00130-1cf5-450e-8b0d-1fdd5c2781be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>item-title</value>
+      <webElementGuid>9f5a5e51-bc3c-4862-97b2-4959e3bc35c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>REV-SHE-Sep142023</value>
+      <webElementGuid>7e3f6492-efcc-411a-a3d0-c66c7e8379db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-expansion-panel-header-105&quot;)/span[@class=&quot;mat-content ng-tns-c1676997785-281&quot;]/mat-panel-title[@class=&quot;mat-expansion-panel-header-title ng-tns-c1676997785-281&quot;]/div[@class=&quot;title-content&quot;]/span[@class=&quot;item-title&quot;]</value>
+      <webElementGuid>42bac514-cad9-4c89-9aa1-8dcea799001f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-expansion-panel-header[@id='mat-expansion-panel-header-105']/span/mat-panel-title/div/span[3]</value>
+      <webElementGuid>3e5061af-f6f6-4a3d-a6a1-f9dde8c2c02c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Review'])[2]/following::span[5]</value>
+      <webElementGuid>aa5fae66-4fcd-4964-a84c-649aa5329ffa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(0)'])[18]/following::span[10]</value>
+      <webElementGuid>f9edc8d8-c512-446e-a778-f82777bd364c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Working Papers'])[9]/preceding::span[4]</value>
+      <webElementGuid>c038ea9b-f01e-47c0-b2b9-90ed9232d90d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='System Documents'])[9]/preceding::span[9]</value>
+      <webElementGuid>1ca2dca0-03b6-4b3f-9688-d755433701a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-expansion-panel[4]/div/div/mat-expansion-panel[2]/div/div/mat-expansion-panel/mat-expansion-panel-header/span/mat-panel-title/div/span[3]</value>
+      <webElementGuid>873a8c40-2cf7-41ac-8d78-46ada4a7ea03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'REV-SHE-Sep142023' or . = 'REV-SHE-Sep142023')]</value>
+      <webElementGuid>9b054f66-11dc-41fb-8d39-4e8ccb698526</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

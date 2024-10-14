@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>kebab option Delete</name>
+   <tag></tag>
+   <elementGuidId>bfd3adeb-6ff7-4b9e-a2e0-ec9fd50fb31f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.button-normal.flex-1.m-0.mdc-button.mat-mdc-button.mdc-button--unelevated.mat-mdc-unelevated-button.mat-error.mat-mdc-button-base > span.mdc-button__label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Move'])[1]/preceding::span[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=menuitem[name=&quot;Delete&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>5ec25272-9b31-426e-8b5e-c00332027726</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Delete</value>
+      <webElementGuid>bda9b874-739a-4c22-8868-485ce0a2cb93</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-mdc-dialog-0&quot;)/div[@class=&quot;mdc-dialog__container&quot;]/div[@class=&quot;mat-mdc-dialog-surface mdc-dialog__surface&quot;]/div[@class=&quot;countable-dialog ng-star-inserted&quot;]/div[@class=&quot;mat-mdc-dialog-actions mdc-dialog__actions dialog-footer button-group w-100&quot;]/button[@class=&quot;button-normal flex-1 m-0 mdc-button mat-mdc-button mdc-button--unelevated mat-mdc-unelevated-button mat-error mat-mdc-button-base&quot;]/span[@class=&quot;mdc-button__label&quot;]</value>
+      <webElementGuid>92d25982-40ca-4416-ab29-5db2bdcf0798</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mdc-button__label</value>
+      <webElementGuid>0986e291-ec58-4c3c-ae1c-fac0fa3910f0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-dialog-container[@id='mat-mdc-dialog-0']/div/div/div/div[3]/button[2]/span[2]</value>
+      <webElementGuid>3a421c10-39e6-43b9-97cd-8299ea1a1376</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::span[4]</value>
+      <webElementGuid>1021d52c-5647-4600-8298-e676396381f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Expenses'])[2]/following::span[6]</value>
+      <webElementGuid>fb37e146-183b-404c-9be3-1ccac9bfc0b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/button[2]/span[2]</value>
+      <webElementGuid>41fb2431-61e1-4b9a-a068-26782364c296</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Delete' or . = 'Delete')]</value>
+      <webElementGuid>bbcf235d-90cc-42fe-863f-68aee898009a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mat-menu-panel-83']/div/button[2]/span/span</value>
+      <webElementGuid>63c35ba5-3a2e-430c-b6cf-82a326a225d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rename'])[1]/following::span[2]</value>
+      <webElementGuid>85981726-8ef2-4b8e-8c83-d7fa929bd1dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='clear'])[2]/following::span[7]</value>
+      <webElementGuid>b4c80552-03af-432e-a483-0fa772b25383</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Move'])[1]/preceding::span[1]</value>
+      <webElementGuid>c2ee4e5e-b739-4a92-8b12-07b04c63c43a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Download'])[1]/preceding::span[3]</value>
+      <webElementGuid>8382f882-bab0-4f0d-ae69-46f03339705c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/button[2]/span/span</value>
+      <webElementGuid>97661a69-cfd1-46ba-942e-f5480177b887</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

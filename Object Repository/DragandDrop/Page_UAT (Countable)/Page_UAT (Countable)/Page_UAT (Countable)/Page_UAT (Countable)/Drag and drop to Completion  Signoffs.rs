@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Drag and drop to Completion  Signoffs</name>
+   <tag></tag>
+   <elementGuidId>c261b6b7-5f70-4055-a112-41ab14a36b4e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//span[@id='CompletionSignoffs_parentLevel'])[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>547451fc-97de-4194-9820-69ca66a80623</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>CompletionSignoffs_parentLevel</value>
+      <webElementGuid>68be6999-8c58-499e-b1c2-a10614cb97be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>item-title</value>
+      <webElementGuid>fa7b0d64-ff07-49fc-9a5a-8f1b7fe0e82b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Completion &amp; Signoffs</value>
+      <webElementGuid>0903ef24-27af-4905-8822-f9428f16f25c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-expansion-panel-header-104&quot;)/span[@class=&quot;mat-content ng-tns-c1676997785-242 mat-content-hide-toggle&quot;]/mat-panel-title[@id=&quot;CompletionSignoffs_parentLevel&quot;]/div[@class=&quot;signOff-panel-wrapper child-level-signoff&quot;]/div[@id=&quot;CompletionSignoffs_parentLevel&quot;]/span[@id=&quot;CompletionSignoffs_parentLevel&quot;]</value>
+      <webElementGuid>060d88c7-d63d-4709-b00f-88531ac5610f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//span[@id='CompletionSignoffs_parentLevel'])[3]</value>
+      <webElementGuid>6c339cc0-5375-48a6-8c8a-94d76a75cf82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='CompletionSignoffs_parentLevel']/span[3]</value>
+      <webElementGuid>f72fe7d6-53ce-4881-b0d0-3138e5afdadf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notes to Financial Statements'])[1]/following::span[4]</value>
+      <webElementGuid>842bd28d-b1c6-49ec-8895-9d201282a420</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Statement of Cash Flows'])[1]/following::span[6]</value>
+      <webElementGuid>59067321-2dd5-44ca-bc60-ce0c31cfa5e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Accumulation of Identified Misstatements (AIM)'])[1]/preceding::span[8]</value>
+      <webElementGuid>6c113b07-9f8b-41f0-b5e9-ffa1250b90d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Management Representation letter'])[1]/preceding::span[17]</value>
+      <webElementGuid>9bf3e06c-3d2a-4bd5-b8e8-71d4379cd089</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>WebUI.sendKeys(null, Keys.chord(Keys.ARROW_UP))</value>
+      <webElementGuid>38ca193e-3a7b-484d-b7c6-e5af71373c20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-expansion-panel[7]/mat-expansion-panel-header/span/mat-panel-title/div/div/span[3]</value>
+      <webElementGuid>e84ebb32-5079-4e24-954d-7c7e8c25f97e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'CompletionSignoffs_parentLevel' and (text() = 'Completion &amp; Signoffs' or . = 'Completion &amp; Signoffs')]</value>
+      <webElementGuid>fa9fe6ac-8265-4848-b1b1-cec27cbfe1e7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

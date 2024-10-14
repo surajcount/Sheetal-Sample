@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This TC is written to login into prod application</description>
+   <name>TC 01 Doc Repo P</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e0785449-68dd-43af-927e-5a79a34a8e39</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>doc kebab menu move click</name>
+   <tag></tag>
+   <elementGuidId>d29a8180-27eb-48bd-a432-9edf0d8ac3cd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[(text() = 'Move')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.mat-mdc-dialog-actions.mdc-dialog__actions.dialog-footer.button-group > button.button-medium.mdc-button.mat-mdc-button.mdc-button--unelevated.mat-mdc-unelevated-button.mat-primary.mat-mdc-button-base > span.mdc-button__label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Move&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>86323eab-7be9-44fe-a372-c52119638a18</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Move</value>
+      <webElementGuid>4b241d79-3e2d-4899-a85c-7b17a459bb01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;move_leftsidedoc&quot;)/div[@class=&quot;mdc-dialog__container&quot;]/div[@class=&quot;mat-mdc-dialog-surface mdc-dialog__surface&quot;]/app-common-dialog[@class=&quot;mat-mdc-dialog-component-host ng-star-inserted&quot;]/div[@class=&quot;countable-dialog moveDialog ng-star-inserted&quot;]/div[@class=&quot;mat-mdc-dialog-actions mdc-dialog__actions dialog-footer button-group&quot;]/button[@class=&quot;button-medium mdc-button mat-mdc-button mdc-button--unelevated mat-mdc-unelevated-button mat-primary mat-mdc-button-base&quot;]/span[@class=&quot;mdc-button__label&quot;]</value>
+      <webElementGuid>36f703b5-cf7c-4105-9b66-b01197a86871</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mdc-button__label</value>
+      <webElementGuid>74de6924-a788-4306-a211-c856fbda1cb8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-dialog-container[@id='move_leftsidedoc']/div/div/app-common-dialog/div/div[3]/button[2]/span[2]</value>
+      <webElementGuid>0a5d4cf7-1b5f-48b9-86a1-b60c4da6d31c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::span[5]</value>
+      <webElementGuid>d0a5b5cb-42ba-4b97-b344-feb32b8b516e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Final Review'])[1]/following::span[8]</value>
+      <webElementGuid>6617daf3-499e-42b2-87c7-c1197889bc92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Move']/parent::*</value>
+      <webElementGuid>299f12a6-3bf9-4f88-bda2-8ec1f3952330</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/button[2]/span[2]</value>
+      <webElementGuid>263fe7a4-a57f-495f-a3c2-e137196a0c9d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Move' or . = 'Move')]</value>
+      <webElementGuid>0dba5edc-32f5-4a54-9f22-d5bdbd6dacf3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mat-menu-panel-20']/div/button[3]/span/span</value>
+      <webElementGuid>c1110e7d-838d-4706-93e0-ba251184d544</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete'])[2]/following::span[2]</value>
+      <webElementGuid>5cdae4f7-653c-4c51-be91-a1a82f3dc32d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rename'])[1]/following::span[4]</value>
+      <webElementGuid>f8243619-b0d3-4584-bdae-4e0956a1ce40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Download'])[1]/preceding::span[1]</value>
+      <webElementGuid>5c71c10e-a77b-47de-a7b7-a89af0f5c61d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/button[3]/span/span</value>
+      <webElementGuid>b075d481-b329-4b11-99db-e2c6679b776d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Move')]</value>
+      <webElementGuid>9d7fd818-d5d2-49da-be12-04a38ab2ea54</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

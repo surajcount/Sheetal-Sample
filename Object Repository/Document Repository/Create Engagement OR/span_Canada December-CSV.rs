@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Canada December-CSV</name>
+   <tag></tag>
+   <elementGuidId>9fe75fe1-f892-49fd-ae81-e8c322c7d4b0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-option[@id='mat-option-14']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#mat-option-14 > span.mdc-list-item__primary-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[title=&quot;Canada December&quot;i] >> internal:text=&quot;Canada December&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>34ee995f-3f6f-4821-a713-76bc9d1e1fe4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mdc-list-item__primary-text</value>
+      <webElementGuid>6ce89bfd-dc2a-46aa-b222-35309951862b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Canada December </value>
+      <webElementGuid>c7e75dd8-c561-404f-9930-06fbf557cf6d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-option-14&quot;)/span[@class=&quot;mdc-list-item__primary-text&quot;]</value>
+      <webElementGuid>96d762b9-7401-4427-b331-34c1796d6f8b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-option[@id='mat-option-14']/span</value>
+      <webElementGuid>67caa21f-7252-49e7-942d-01308f4ef509</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AWER KHAN (CMS)'])[1]/following::span[1]</value>
+      <webElementGuid>5acca8d5-7734-4ea8-8728-54d49e1eeebb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Amar 25CMS (CMS)'])[1]/following::span[2]</value>
+      <webElementGuid>6736202c-24bf-49b9-980e-3ada1c060c09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='cms 9183twice (CMS)'])[1]/preceding::span[1]</value>
+      <webElementGuid>b56dadab-68c6-4425-bf3e-cb05bcbae1f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete Firmretest (CMS)'])[1]/preceding::span[2]</value>
+      <webElementGuid>e43e9989-3553-4790-81cf-f4bcc24fa8c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-option[7]/span</value>
+      <webElementGuid>d8b968e6-f2ee-4f71-9774-b3784d3a822a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Canada December ' or . = 'Canada December ')]</value>
+      <webElementGuid>7f2a77cb-52e8-4e80-9e65-956a2ac8d8aa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

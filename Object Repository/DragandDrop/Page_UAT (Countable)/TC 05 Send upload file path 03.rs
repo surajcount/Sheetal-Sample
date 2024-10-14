@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>TC 05 Send upload file path 03</name>
+   <tag></tag>
+   <elementGuidId>e7f927d4-33a4-48ef-86bc-0cf3552b62fa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@type = 'file' and @name = 'fileUpload']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input[name=&quot;fileUpload&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>a6d11d66-09e3-4c2b-83c6-e7b71ff2ef8a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>file</value>
+      <webElementGuid>d6ce7d83-688a-4bb2-8756-82d4ec427236</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>fileUpload</value>
+      <webElementGuid>0251dc3c-f424-4be8-a7ec-7802e2e3cfe7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-mdc-dialog-1&quot;)/div[@class=&quot;mdc-dialog__container&quot;]/div[@class=&quot;mat-mdc-dialog-surface mdc-dialog__surface&quot;]/div[@class=&quot;countable-dialog ng-star-inserted&quot;]/div[@class=&quot;mat-mdc-dialog-content mdc-dialog__content dialog-body-content template-block-main&quot;]/div[@class=&quot;file-upload&quot;]/div[@class=&quot;file-wrapper&quot;]/p[@class=&quot;text-link text-primary fw-medium m-0&quot;]/input[1]</value>
+      <webElementGuid>bc12e811-52a9-4cb7-b8c7-f73ad0722b6a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@name='fileUpload']</value>
+      <webElementGuid>c6ab9ae7-4a77-4200-90ec-92aeeeaab9ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-dialog-container[@id='mat-mdc-dialog-1']/div/div/div/div[2]/div/div[2]/p/input</value>
+      <webElementGuid>da1f887d-095e-464d-bfa1-97b16d1c1a76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p/input</value>
+      <webElementGuid>f18cae5d-e713-49c7-990c-79e6842e8cbf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'file' and @name = 'fileUpload']</value>
+      <webElementGuid>cc56f646-38b2-49c1-bf48-7fc6356e831e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

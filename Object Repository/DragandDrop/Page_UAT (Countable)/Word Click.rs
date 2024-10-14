@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Word Click</name>
+   <tag></tag>
+   <elementGuidId>6247f373-b11d-4aac-be45-e58fc53acc14</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.mat-mdc-menu-item.mat-mdc-focus-indicator.ng-star-inserted.cdk-focused.cdk-mouse-focused > span.mat-mdc-menu-item-text > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[contains(text(),'Word')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=menuitem[name=&quot;Word icon&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e6dd3d53-57ee-44a5-a452-061c33416645</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Word</value>
+      <webElementGuid>9c777dda-fd58-4af8-8ed6-792daf883c08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-menu-panel-202&quot;)/div[@class=&quot;mat-mdc-menu-content ng-tns-c681116372-591&quot;]/div[@class=&quot;ng-tns-c681116372-591&quot;]/button[@class=&quot;mat-mdc-menu-item mat-mdc-focus-indicator ng-star-inserted cdk-focused cdk-mouse-focused&quot;]/span[@class=&quot;mat-mdc-menu-item-text&quot;]/span[1]</value>
+      <webElementGuid>e55b6bb2-9c89-4df4-a1bc-aa234b131b81</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mat-menu-panel-202']/div/div/button[6]/span/span</value>
+      <webElementGuid>7988b8a4-0201-4e3e-8302-5dc88844de49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Excel'])[1]/following::span[2]</value>
+      <webElementGuid>04d0d8ef-f861-473d-91ba-42fbc81b554c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PDF'])[1]/following::span[4]</value>
+      <webElementGuid>7e4193fd-c4ab-4d61-918f-3f6ee8beed92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='JPEG'])[1]/preceding::span[2]</value>
+      <webElementGuid>34932441-9991-45d7-a2e8-0f6df32d3b7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Word']/parent::*</value>
+      <webElementGuid>9bc743fa-6156-4579-b45d-8383fba8d033</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[6]/span/span</value>
+      <webElementGuid>c9eb30c7-df6b-4dcc-ab9e-d17f0bda884f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Word' or . = 'Word')]</value>
+      <webElementGuid>cffa8931-82c7-47fa-8adb-324c1b15b590</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

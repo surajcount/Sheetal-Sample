@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Collapse</name>
+   <tag></tag>
+   <elementGuidId>06ac98af-a3a8-49fa-91e8-625c93c47e87</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[@src='/assets/images/ui-uplift-icons/global/collapse-primary.svg']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.search-filter-block.gap-12.px-3.py-2.ng-star-inserted > button.button-text.mdc-button.mat-mdc-button.mat-unthemed.mat-mdc-button-base.ng-star-inserted > span.mdc-button__label > img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>066b7bed-f435-498f-bb85-9608a60426da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/assets/images/ui-uplift-icons/global/collapse-primary.svg</value>
+      <webElementGuid>f9627aa8-a7b2-470d-bb84-e40bb8f31fbe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-tab-content-0-0&quot;)/div[@class=&quot;mat-mdc-tab-body-content ng-tns-c2396234108-104 ng-trigger ng-trigger-translateTab&quot;]/div[@class=&quot;panel-right-content template-block-main overflow-hidden ng-star-inserted&quot;]/div[@class=&quot;search-filter-block gap-12 px-3 py-2 ng-star-inserted&quot;]/button[@class=&quot;button-text mdc-button mat-mdc-button mat-unthemed mat-mdc-button-base ng-star-inserted&quot;]/span[@class=&quot;mdc-button__label&quot;]/img[1]</value>
+      <webElementGuid>36c40754-bbb6-4acb-9182-3d1aeab2d710</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-tab-body[@id='mat-tab-content-0-0']/div/div/div[2]/button/span[2]/img</value>
+      <webElementGuid>9c8a37e1-07d3-44c9-b3a5-dfc99bd746d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-tab-body/div/div/div[2]/button/span[2]/img</value>
+      <webElementGuid>2c9482d3-26d2-40e3-b957-8e37c40bff60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/assets/images/ui-uplift-icons/global/collapse-primary.svg']</value>
+      <webElementGuid>5d8a1f31-08a4-4620-ba95-90fcfdd64f73</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

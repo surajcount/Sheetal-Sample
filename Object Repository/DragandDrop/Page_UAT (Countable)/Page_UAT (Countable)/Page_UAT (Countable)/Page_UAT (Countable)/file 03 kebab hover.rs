@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>file 03 kebab hover</name>
+   <tag></tag>
+   <elementGuidId>d566fb27-2774-4657-a558-fc9abb743411</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='tbDoc-TB-4-AUWODC.docx']/div/button/span[2]/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.mat-mdc-menu-trigger.kebab-menu-button.mdc-button.mat-mdc-button.mat-unthemed.mat-mdc-button-base.cdk-focused.cdk-mouse-focused > span.mdc-button__label > img[alt=&quot;menu&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>aac389a7-8732-44a1-86f0-fc727f80c9d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/assets/images/ui-uplift-icons/global/kebab-menu-icon.svg</value>
+      <webElementGuid>88d5d752-fd8f-493c-ad20-0ed3962c81bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>menu</value>
+      <webElementGuid>7989caaa-3a13-4892-acf2-62000b051bb9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tbDoc-TB-3-AUWODC.docx&quot;)/div[@class=&quot;cdk-drag list-item-content&quot;]/button[@class=&quot;mat-mdc-menu-trigger kebab-menu-button mdc-button mat-mdc-button mat-unthemed mat-mdc-button-base cdk-focused cdk-mouse-focused&quot;]/span[@class=&quot;mdc-button__label&quot;]/img[1]</value>
+      <webElementGuid>c0c90505-f3f6-4c2d-94de-f712ab0397e7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='tbDoc-TB-3-AUWODC.docx']/div/button/span[2]/img</value>
+      <webElementGuid>9d33f0ae-29cb-4bc9-9c71-ac8167af05b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>(//img[@alt='menu'])[19]</value>
+      <webElementGuid>672921f2-70e4-4c4b-919f-b03ad836b90d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/div/button/span[2]/img</value>
+      <webElementGuid>275bd46c-5cce-42df-939f-53bddefe99b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/assets/images/ui-uplift-icons/global/kebab-menu-icon.svg' and @alt = 'menu']</value>
+      <webElementGuid>699e60f4-3abb-401c-b264-fce50bc4c7cc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

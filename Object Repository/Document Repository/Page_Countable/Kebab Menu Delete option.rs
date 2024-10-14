@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Kebab Menu Delete option</name>
+   <tag></tag>
+   <elementGuidId>0f0f4b77-95da-4e36-ba78-d67711f6e3b3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[(text() = 'Delete' or . = 'Delete')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>073eb536-d16d-4027-af02-6e0601e7f2bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-mdc-menu-item-text</value>
+      <webElementGuid>32734dab-c925-47a5-bda4-0e14e61315a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Delete</value>
+      <webElementGuid>630b2e8e-91db-4be9-b85f-5266d23a6e33</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-menu-panel-7&quot;)/div[@class=&quot;mat-mdc-menu-content ng-tns-c681116372-25&quot;]/div[@class=&quot;ng-tns-c681116372-25&quot;]/button[@class=&quot;mat-mdc-menu-item mat-mdc-focus-indicator&quot;]/span[@class=&quot;mat-mdc-menu-item-text&quot;]</value>
+      <webElementGuid>6e4c594f-b664-4909-b48d-2e366be5ba7a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mat-menu-panel-7']/div/div/button[3]/span</value>
+      <webElementGuid>a067228b-c5b5-491a-bb42-c01f340e6f02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rename'])[1]/following::span[1]</value>
+      <webElementGuid>f4745d28-d9a4-4a1b-9f74-2ff8ec2d4059</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New Folder'])[1]/following::span[2]</value>
+      <webElementGuid>758892c6-27f7-4c54-95b0-bb40b92709df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/button[3]/span</value>
+      <webElementGuid>dc6a1cfb-8b63-4e81-91cb-996faf3e0989</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Delete' or . = 'Delete')]</value>
+      <webElementGuid>10ee1dcc-cd0d-4d7f-8b6b-2eed8bdc09a8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Button Delete click</name>
+   <tag></tag>
+   <elementGuidId>c2c4b833-129a-4a82-861a-4259d7e029e9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div[dir='ltr'] button:nth-child(2) span:nth-child(2)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::span[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>8581d5b3-d812-4952-8c1c-ba7c62639012</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mdc-button__label</value>
+      <webElementGuid>c09f70ac-3988-4c4f-92b9-956f58ded673</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Delete</value>
+      <webElementGuid>b1d25137-ad55-43cd-8a65-7a7035aab3c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-mdc-dialog-0&quot;)/div[@class=&quot;mdc-dialog__container&quot;]/div[@class=&quot;mat-mdc-dialog-surface mdc-dialog__surface&quot;]/div[@class=&quot;countable-dialog ng-star-inserted&quot;]/div[@class=&quot;mat-mdc-dialog-actions mdc-dialog__actions dialog-footer button-group w-100&quot;]/button[@class=&quot;button-normal flex-1 m-0 mdc-button mat-mdc-button mdc-button--unelevated mat-mdc-unelevated-button mat-error mat-mdc-button-base&quot;]/span[@class=&quot;mdc-button__label&quot;]</value>
+      <webElementGuid>fffc2c67-d298-4728-84c9-daad95fbfdab</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-dialog-container[@id='mat-mdc-dialog-0']/div/div/div/div[3]/button[2]/span[2]</value>
+      <webElementGuid>7a72be36-9799-4186-a9f2-dbe4a06a444d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::span[4]</value>
+      <webElementGuid>06505ad8-c784-4e8a-b872-1f19ae9dd71c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Expenses'])[2]/following::span[6]</value>
+      <webElementGuid>5dcc73c5-5e41-4d47-98b4-db351f589e76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/button[2]/span[2]</value>
+      <webElementGuid>68660efa-7ee2-4ae7-9141-66a58f44fc22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Delete' or . = 'Delete')]</value>
+      <webElementGuid>97ab6315-bbda-4d91-8615-a39779d9877d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

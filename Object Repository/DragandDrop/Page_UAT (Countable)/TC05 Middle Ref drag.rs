@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>TC05 Middle Ref drag</name>
+   <tag></tag>
+   <elementGuidId>696a1038-0434-4ca5-8fbf-2c1c0717152a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@title = 'TB-1-AUPDDC.pdf' and (text() = 'TB-1-AUPDDC.pdf' or . = 'TB-1-AUPDDC.pdf')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.cdk-drag.list-item-content</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>30c1d65b-1217-4721-bef8-dbf2601b8e72</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cdk-drag list-item-content</value>
+      <webElementGuid>f1725c4f-075b-4388-ad06-cb96099114e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>TB-1-AUPDDC.pdf</value>
+      <webElementGuid>a93ded30-e7de-4f29-a408-2f14a164e888</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>TB-1-AUPDDC.pdf</value>
+      <webElementGuid>a2e332fa-c35c-48b9-9a7e-8c65259cde51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tbDoc-TB-1-AUPDDC.pdf&quot;)/div[@class=&quot;cdk-drag list-item-content&quot;]</value>
+      <webElementGuid>00eca56e-4a96-4ecb-b0fb-cf6dc23084d1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='tbDoc-TB-1-AUPDDC.pdf']/div</value>
+      <webElementGuid>6e0d008d-e67d-4a26-a7ec-1235e3ca14ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Trial Balance &amp; Adj. Entries'])[1]/following::div[4]</value>
+      <webElementGuid>3f531a2b-a07a-43b9-877c-c95362e3b215</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Banking Agreements'])[1]/following::div[8]</value>
+      <webElementGuid>b3d8a11d-1ba6-4334-8a35-53122eee925a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TB-2-02 Rename Via Automation .csv'])[1]/preceding::div[2]</value>
+      <webElementGuid>91544bf9-cbee-402f-9be9-9afef2a37440</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/ul/li/div</value>
+      <webElementGuid>d6665207-dc73-4370-b8f9-d7605177f3a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@title = 'TB-1-AUPDDC.pdf' and (text() = 'TB-1-AUPDDC.pdf' or . = 'TB-1-AUPDDC.pdf')]</value>
+      <webElementGuid>5535251e-008a-4db5-80aa-9c7ae9065aa6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

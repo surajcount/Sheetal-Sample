@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>LHSExpand-Collapse</name>
+   <tag></tag>
+   <elementGuidId>65d6b72a-c169-4edd-a8df-5fdf0efa94d3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='leftSearchItems']/div/button/span[2]/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img[alt=&quot;Collapse All&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Collapse All&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>fedd91bc-7486-4746-b4f4-01b29e806231</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Collapse All</value>
+      <webElementGuid>85d9f55d-cb0d-4c2c-968e-02886ee81b9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/assets/images/ui-uplift-icons/global/collapse-primary.svg</value>
+      <webElementGuid>3d8e7b86-ae78-40e4-98bf-3c213fb4e435</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;leftSearchItems&quot;)/div[@class=&quot;search-block d-flex gap-8 ps-3 pe-2 w-100&quot;]/button[@class=&quot;button-medium-icon mdc-button mat-mdc-button mdc-button--outlined mat-mdc-outlined-button mat-dark mat-mdc-button-base ng-star-inserted&quot;]/span[@class=&quot;mdc-button__label&quot;]/img[1]</value>
+      <webElementGuid>233731a8-9b07-4a93-8ed4-7d6ae4a11f2e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='leftSearchItems']/div/button/span[2]/img</value>
+      <webElementGuid>d1a37f2e-cb22-4035-9fc9-2436dfe19393</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Collapse All']</value>
+      <webElementGuid>df44c49f-b8f6-4db3-baaa-bdfadb3271ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/button/span[2]/img</value>
+      <webElementGuid>8ab22ff8-2f47-4796-b792-9864153daee4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@alt = 'Collapse All' and @src = '/assets/images/ui-uplift-icons/global/collapse-primary.svg']</value>
+      <webElementGuid>788757f6-2c39-4741-ac7c-0c325f78d89c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

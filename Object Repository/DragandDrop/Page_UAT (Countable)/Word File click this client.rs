@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Word File click this client</name>
+   <tag></tag>
+   <elementGuidId>ee0ecff0-6b7e-4684-8311-b4b81c13e5b6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//span[@title='2024>Compilation>COM-RET-Jan092024>Working Papers>Manual Documents'][contains(text(),'2024>Compilation>COM-RET-Jan092024>Working Papers>')])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>span >> internal:has-text=&quot;IND-1-MSD.doc2024>Compilation>COM-RET-Dec312024>Working Papers>Manual Documents&quot;i >> span >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a054623b-a7b7-4d68-8b88-4939356b1e55</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>item-numanic</value>
+      <webElementGuid>deab2eeb-a119-4f90-8367-1ccf519e1a84</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>IND-1-</value>
+      <webElementGuid>932f79e3-39e8-48da-b271-2df955c705ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-drop-list-81&quot;)/li[@class=&quot;cdk-drag list-item-content h-auto py-2 ng-star-inserted&quot;]/span[@class=&quot;path-title-block flex-row&quot;]/span[@class=&quot;item-numanic&quot;]</value>
+      <webElementGuid>e4792201-e4a5-4887-ad86-0d2f3774b28a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='cdk-drop-list-81']/li[5]/span[2]/span</value>
+      <webElementGuid>accd9447-7c33-4297-b189-711751a4f5bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='s3 retest.docx'])[2]/following::span[4]</value>
+      <webElementGuid>22c53e58-6ad8-4e4f-a35f-2ed20334079b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IND-2-'])[1]/following::span[5]</value>
+      <webElementGuid>28a8d6e2-3213-4098-938e-09b7eca49700</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MSD.doc'])[2]/preceding::span[1]</value>
+      <webElementGuid>27caa022-a0a3-4479-a704-0936dcfb95b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SHA-1-'])[1]/preceding::span[4]</value>
+      <webElementGuid>fb0ba769-78d5-4ac1-af88-6be0b1156c13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='IND-1-']/parent::*</value>
+      <webElementGuid>d609a5a9-b33a-4e3f-9bd7-d5659de72714</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]/span[2]/span</value>
+      <webElementGuid>188c8f08-6019-4ae0-9863-8ba06c6ad105</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'IND-1-' or . = 'IND-1-')]</value>
+      <webElementGuid>2385db01-e595-4598-993e-036cb70323a3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

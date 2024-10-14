@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>TC05 file 03 delete</name>
+   <tag></tag>
+   <elementGuidId>bc5a96c8-9e93-42fc-8c2b-8fb5d47c4473</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='tbDoc-TB-4-AUEXDC.csv']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4a39919b-1c5a-434c-877e-eb59c8e73c3c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cdk-drag list-item-content</value>
+      <webElementGuid>885f5f7e-91f0-4d12-bb6b-f7ac179232ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>TB-4-AUEXDC.csv</value>
+      <webElementGuid>630a48d2-ea1a-41f9-97b2-97c0144686c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>TB-4-AUEXDC.csv</value>
+      <webElementGuid>2be857e0-9f36-4c14-9260-be379400b19a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tbDoc-TB-4-AUEXDC.csv&quot;)/div[@class=&quot;cdk-drag list-item-content&quot;]</value>
+      <webElementGuid>7b1b5884-b118-4e42-b163-90067a4cbf3e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='tbDoc-TB-4-AUEXDC.csv']/div</value>
+      <webElementGuid>4aa9bd5f-3a40-4fd9-b121-ab96028e3c45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TB-3-AUWODC.docx'])[1]/following::div[2]</value>
+      <webElementGuid>cddfe852-83da-4c1b-84c7-7a6baf5121e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TB-2-5576.txt'])[1]/following::div[4]</value>
+      <webElementGuid>17fa7625-41a4-433c-92fd-15a45ed83f0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Procedures'])[1]/preceding::div[2]</value>
+      <webElementGuid>bc93fc9d-9c09-43da-a532-32e1112ef497</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/div</value>
+      <webElementGuid>75ee9358-0eea-4528-bd18-bdb2f299440d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@title = 'TB-4-AUEXDC.csv' and (text() = 'TB-4-AUEXDC.csv' or . = 'TB-4-AUEXDC.csv')]</value>
+      <webElementGuid>4ed158bb-87b4-47e5-8a17-8c19f3bda397</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

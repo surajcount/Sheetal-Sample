@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Sort-Excel</name>
+   <tag></tag>
+   <elementGuidId>7b3c4ffb-cf8b-46d2-ba91-11d1c60f840f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.mat-mdc-menu-item.mat-mdc-focus-indicator.ng-star-inserted.cdk-focused.cdk-mouse-focused > span.mat-mdc-menu-item-text > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[contains(text(),'Excel')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=menuitem[name=&quot;Excel icon&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>da355fc0-05de-45ac-bfbb-09d6b559e466</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Excel</value>
+      <webElementGuid>abaff45c-d814-455a-9c7b-d55f6d5ef9fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-menu-panel-206&quot;)/div[@class=&quot;mat-mdc-menu-content ng-tns-c681116372-583&quot;]/div[@class=&quot;ng-tns-c681116372-583&quot;]/button[@class=&quot;mat-mdc-menu-item mat-mdc-focus-indicator ng-star-inserted cdk-focused cdk-mouse-focused&quot;]/span[@class=&quot;mat-mdc-menu-item-text&quot;]/span[1]</value>
+      <webElementGuid>10e895f6-dfc1-4498-94d2-d1a40defe6c4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mat-menu-panel-206']/div/div/button[5]/span/span</value>
+      <webElementGuid>47e3a2af-3b9c-4653-878a-1d1cd208f65a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PDF'])[1]/following::span[2]</value>
+      <webElementGuid>1bbb30e3-241d-487f-a191-16a045c1db66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Type'])[1]/following::span[4]</value>
+      <webElementGuid>7dc66a3c-7168-48d2-9587-5f4d9fbabfd6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Word'])[1]/preceding::span[2]</value>
+      <webElementGuid>7f4e724f-3062-4c23-bbed-f37e7a48ad6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='JPEG'])[1]/preceding::span[4]</value>
+      <webElementGuid>43200933-44ed-4e22-a935-7af2b30081bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Excel']/parent::*</value>
+      <webElementGuid>19dd3d3f-4c67-45e4-837c-20c176c04728</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[5]/span/span</value>
+      <webElementGuid>293fa744-8a3d-4c81-81e2-422df276bf58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Excel' or . = 'Excel')]</value>
+      <webElementGuid>4afb7189-03c9-45ca-a13a-2710c8f4d7f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mat-menu-panel-202']/div/div/button[5]/span/span</value>
+      <webElementGuid>a35d87b7-d063-4a2c-a66d-90c5c24e8256</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

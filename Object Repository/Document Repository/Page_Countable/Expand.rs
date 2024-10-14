@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Expand</name>
+   <tag></tag>
+   <elementGuidId>e0389148-75f9-4765-bcc9-9d15f142d2e9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[@src='/assets/images/ui-uplift-icons/global/expand-primary.svg']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.search-filter-block.gap-12.px-3.py-2.ng-star-inserted > button.button-text.mdc-button.mat-mdc-button.mat-unthemed.mat-mdc-button-base.ng-star-inserted > span.mdc-button__label > img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>701467b9-83d3-4164-a2b7-2084203527a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/assets/images/ui-uplift-icons/global/expand-primary.svg</value>
+      <webElementGuid>08c90db8-1b59-42e8-8cb9-b411dcdbe13d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-tab-content-0-0&quot;)/div[@class=&quot;mat-mdc-tab-body-content ng-tns-c2396234108-104 ng-trigger ng-trigger-translateTab&quot;]/div[@class=&quot;panel-right-content template-block-main overflow-hidden ng-star-inserted&quot;]/div[@class=&quot;search-filter-block gap-12 px-3 py-2 ng-star-inserted&quot;]/button[@class=&quot;button-text mdc-button mat-mdc-button mat-unthemed mat-mdc-button-base ng-star-inserted&quot;]/span[@class=&quot;mdc-button__label&quot;]/img[1]</value>
+      <webElementGuid>f3732730-c56c-4d07-859d-40e7e145c6fb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-tab-body[@id='mat-tab-content-0-0']/div/div/div[2]/button/span[2]/img</value>
+      <webElementGuid>4e1fb01e-7e48-4318-8d6c-9bb3b4def995</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-tab-body/div/div/div[2]/button/span[2]/img</value>
+      <webElementGuid>da3138dc-6f97-4413-b2cc-9acb36edea9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/assets/images/ui-uplift-icons/global/expand-primary.svg']</value>
+      <webElementGuid>2136c4f5-f4f7-4161-9248-ede914b97c23</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

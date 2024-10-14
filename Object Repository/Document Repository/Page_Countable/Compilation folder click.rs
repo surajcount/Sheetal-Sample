@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Compilation folder click</name>
+   <tag></tag>
+   <elementGuidId>b024e9a5-bc71-43b7-ba73-950b53d84ea1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>mat-panel-title.mat-expansion-panel-header-title.ng-tns-c1676997785-197 > div.title-content > span.item-title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//span[@class='item-title'][normalize-space()='Compilation'])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>34eeda51-d538-46fb-bd95-4e8f186fb088</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>item-title</value>
+      <webElementGuid>f729f08d-1a88-4d36-95a8-15b928023200</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Compilation</value>
+      <webElementGuid>0c06dea6-f535-477a-82d4-ed4d07ef8dbb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-expansion-panel-header-68&quot;)/span[@class=&quot;mat-content ng-tns-c1676997785-197&quot;]/mat-panel-title[@class=&quot;mat-expansion-panel-header-title ng-tns-c1676997785-197&quot;]/div[@class=&quot;title-content&quot;]/span[@class=&quot;item-title&quot;]</value>
+      <webElementGuid>da07def0-48d7-4e7e-bf34-8609b3aa79df</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-expansion-panel-header[@id='mat-expansion-panel-header-68']/span/mat-panel-title/div/span[3]</value>
+      <webElementGuid>295bd573-216b-478d-8a57-c129e1d5335e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(0)'])[2]/following::span[10]</value>
+      <webElementGuid>f9ea4bb9-a900-4a58-b042-77b9229a7b23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Final Documents'])[1]/following::span[11]</value>
+      <webElementGuid>5a358ee5-2fee-449e-a4b3-d893d45241a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='COM-SHE-Dec312023'])[2]/preceding::span[4]</value>
+      <webElementGuid>e4c825fe-10cb-4dfc-8666-b8e6b1f8f8a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Working Papers'])[2]/preceding::span[9]</value>
+      <webElementGuid>dce9dda8-9cae-4d8f-b8a2-08a8b112c6ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-expansion-panel[4]/div/div/mat-expansion-panel/mat-expansion-panel-header/span/mat-panel-title/div/span[3]</value>
+      <webElementGuid>a62d83d8-8ace-4bd8-a4a1-e4376de7c30a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Compilation' or . = 'Compilation')]</value>
+      <webElementGuid>173035cd-add9-4bbf-aaa6-19147f6f46f8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

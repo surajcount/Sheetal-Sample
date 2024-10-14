@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>just click rename popup to verify yes disabled</name>
+   <tag></tag>
+   <elementGuidId>17aa86ad-0632-4fed-8da7-8a1b35d64803</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//h4[(text() = 'Rename')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.mat-mdc-dialog-content.mdc-dialog__content.dialog-body-content > h4.title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;Rename&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h4</value>
+      <webElementGuid>93c8b434-dcdb-441a-99f9-f1ed2d1be609</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>title</value>
+      <webElementGuid>88a25c9d-7a41-4778-ae33-9d5149e54d9c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Rename</value>
+      <webElementGuid>b35cda38-248f-4444-bf91-928a55a09e34</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-mdc-dialog-0&quot;)/div[@class=&quot;mdc-dialog__container&quot;]/div[@class=&quot;mat-mdc-dialog-surface mdc-dialog__surface&quot;]/div[@class=&quot;countable-dialog file-rename-dialog ng-star-inserted&quot;]/div[@class=&quot;mat-mdc-dialog-content mdc-dialog__content dialog-body-content&quot;]/h4[@class=&quot;title&quot;]</value>
+      <webElementGuid>fcdcaadd-e2f8-4b0f-a188-583ddb732325</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-dialog-container[@id='mat-mdc-dialog-0']/div/div/div/div[2]/h4</value>
+      <webElementGuid>62186c28-c61e-4771-b843-a36e73c66e82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='close'])[1]/following::h4[1]</value>
+      <webElementGuid>cc04994e-45bc-4b29-81b5-dea73bb22e20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[1]/following::h4[1]</value>
+      <webElementGuid>643ce546-423f-4b42-a34c-9ad83ebf42f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shareholders Agreements'])[2]/preceding::h4[1]</value>
+      <webElementGuid>edeb42b0-16c1-47c7-a157-8dbdfe4c8614</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SHA-1-Accounts Receivable 3.pdf'])[2]/preceding::h4[1]</value>
+      <webElementGuid>e01167f5-899c-4631-b0f7-b338fd9f2a2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Rename']/parent::*</value>
+      <webElementGuid>2a49a8b8-4187-42cb-aad1-a21f2ee67c82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/h4</value>
+      <webElementGuid>b9bf5456-0721-4797-9280-9410ad87aaee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h4[(text() = 'Rename')]</value>
+      <webElementGuid>785e15f5-01d5-48c4-90a2-6c6228adf51d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

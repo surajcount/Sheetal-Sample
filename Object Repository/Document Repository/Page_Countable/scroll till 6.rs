@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>scroll till 6</name>
+   <tag></tag>
+   <elementGuidId>a0bfd7ff-35c1-45bf-a905-3f96828f9627</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[(text() = 'TrialBal8ance_v2.xlsx' or . = 'TrialBal8ance_v2.xlsx')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>843575db-9441-441f-acb3-2e7a6f395038</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>inline</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>f2193a64-1a40-4ce9-bf4d-2d97d8611ab9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>item-title ng-star-inserted</value>
+      <webElementGuid>16b1d6ba-3c72-47c0-8424-54ebbe0eae6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>TrialBal8ance_v2.xlsx</value>
+      <webElementGuid>3c39b449-cb2d-4e87-add4-69e9a518f7ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-accordion-child-301&quot;)/div[@class=&quot;mat-expansion-panel-body ng-tns-c1859850774-850&quot;]/ul[@class=&quot;templates-list-items ng-tns-c1859850774-850&quot;]/li[@class=&quot;list-item-content h-auto py-2 ng-star-inserted&quot;]/span[@class=&quot;item-title ng-star-inserted&quot;]</value>
+      <webElementGuid>dc8b41d7-f243-402c-aff7-ac8cf67481bc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cdk-accordion-child-301']/div/ul/li[6]/span[3]</value>
+      <webElementGuid>745eb97a-36c3-4954-b79c-0d97e7b6f480</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EC-1-'])[2]/following::span[1]</value>
+      <webElementGuid>9b2d4eb6-0f48-46a6-8852-d35c1a7d5476</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Trial Balance Grou...'])[14]/following::span[7]</value>
+      <webElementGuid>cc730cc3-b555-4b0a-ab0e-6388d266d327</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EC-2-'])[2]/preceding::span[6]</value>
+      <webElementGuid>d7b416cb-fa68-416d-9e13-ab2cfab517b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MSD 3.doc'])[1]/preceding::span[7]</value>
+      <webElementGuid>7b937c8d-9d91-4835-b405-7f763aa73b79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-expansion-panel[3]/div/div/mat-expansion-panel/div/div/mat-expansion-panel[2]/div/div/ul/li[6]/span[3]</value>
+      <webElementGuid>a92174c2-49c3-407a-8878-dc02babf117b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'TrialBal8ance_v2.xlsx' or . = 'TrialBal8ance_v2.xlsx')]</value>
+      <webElementGuid>a5fe75df-35e5-4db5-9089-b75e88fe472a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Review folder click</name>
+   <tag></tag>
+   <elementGuidId>8b095cc9-5f75-4076-a631-9227b1e9941e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>mat-panel-title.mat-expansion-panel-header-title.ng-tns-c1676997785-189 > div.title-content > span.item-title</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;mat-expansion-panel-header-69&quot;)/span[@class=&quot;mat-content ng-tns-c1676997785-199&quot;]/mat-panel-title[@class=&quot;mat-expansion-panel-header-title ng-tns-c1676997785-199&quot;]/div[@class=&quot;title-content&quot;][count(. | //div[@class = 'title-content' and @title = 'Review' and (text() = 'Review' or . = 'Review')]) = count(//div[@class = 'title-content' and @title = 'Review' and (text() = 'Review' or . = 'Review')])]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[1]/app-root[1]/app-dashboard[1]/div[1]/div[1]/div[2]/app-client-engagement-info[1]/div[1]/div[2]/app-right-panel[1]/div[1]/div[1]/mat-tab-group[1]/div[1]/mat-tab-body[1]/div[1]/div[1]/div[4]/mat-accordion[1]/mat-expansion-panel[5]/div[1]/div[1]/mat-expansion-panel[2]/mat-expansion-panel-header[1]/span[1]/mat-panel-title[1]/div[1]/span[1]/img[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>feb76472-866d-47b4-98bc-7d56d8f18a76</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>title-content</value>
+      <webElementGuid>ce3b8a8f-e384-4b5f-9ebe-b3a849e8ed87</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Review</value>
+      <webElementGuid>3c3993b2-b37f-4400-99a0-a754d7435020</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Review</value>
+      <webElementGuid>770febd0-716b-4fd2-986b-13305f17c372</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-expansion-panel-header-69&quot;)/span[@class=&quot;mat-content ng-tns-c1676997785-199&quot;]/mat-panel-title[@class=&quot;mat-expansion-panel-header-title ng-tns-c1676997785-199&quot;]/div[@class=&quot;title-content&quot;]</value>
+      <webElementGuid>6ec00ced-d251-4514-bb3b-88550aae18a4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-expansion-panel-header[@id='mat-expansion-panel-header-69']/span/mat-panel-title/div</value>
+      <webElementGuid>d0abadd5-fd99-4e00-a87d-662773bddcda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(0)'])[18]/following::div[3]</value>
+      <webElementGuid>75035896-937d-4fc8-b5d2-5be621f42548</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Final Documents'])[8]/following::div[3]</value>
+      <webElementGuid>17650b03-6bed-4fa3-a69e-f0ee9ae9e9bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='REV-SHE-Sep142023'])[2]/preceding::div[1]</value>
+      <webElementGuid>1bf4c5d1-2740-45e4-81bb-96b1942ffbdc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-expansion-panel[4]/div/div/mat-expansion-panel[2]/mat-expansion-panel-header/span/mat-panel-title/div</value>
+      <webElementGuid>7a1c3d32-8fef-4b04-802a-3191108b5eca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@title = 'Review' and (text() = 'Review' or . = 'Review')]</value>
+      <webElementGuid>42ff111a-da27-45d7-a6a3-196bc3e63153</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

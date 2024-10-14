@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>move click_Procedures</name>
+   <tag></tag>
+   <elementGuidId>6f87054e-1651-4ed9-bc3a-102f81abe766</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>mat-panel-title.mat-expansion-panel-header-title.ng-tns-c1676997785-441 > div.title-content > span.item-title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[2]/div[2]/mat-accordion/mat-expansion-panel[5]/mat-expansion-panel-header/span/mat-panel-title/div/span[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Toogle icon Procedures&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>38a3cedc-b284-4d73-bb3c-f0cb012967ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>item-title</value>
+      <webElementGuid>c99a040b-40fa-4783-9b39-bc882e5522a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Procedures</value>
+      <webElementGuid>5fe6c275-3866-4b2d-9375-7351cf89457b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-expansion-panel-header-148&quot;)/span[@class=&quot;mat-content ng-tns-c1676997785-441&quot;]/mat-panel-title[@class=&quot;mat-expansion-panel-header-title ng-tns-c1676997785-441&quot;]/div[@class=&quot;title-content&quot;]/span[@class=&quot;item-title&quot;]</value>
+      <webElementGuid>1879bf6d-2a4a-42d6-98e5-dcc2236c3c92</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-expansion-panel-header[@id='mat-expansion-panel-header-148']/span/mat-panel-title/div/span[3]</value>
+      <webElementGuid>988a0085-c3bd-4ca2-aae8-3a842ee8e247</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Trial Balance &amp; Adj.Entries'])[1]/following::span[5]</value>
+      <webElementGuid>465e2fb5-7915-42d7-bfef-82d20b31289f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Banking Agreements'])[2]/following::span[9]</value>
+      <webElementGuid>c335b1a7-b053-4f5b-bf49-f1bfd7cb8898</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Assets'])[2]/preceding::span[4]</value>
+      <webElementGuid>f940c937-d3ba-4c2a-a7e8-8903218eacf6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Current assets'])[2]/preceding::span[9]</value>
+      <webElementGuid>8fc69157-40f4-49fd-88cf-408a41537b28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/mat-accordion/mat-expansion-panel[5]/mat-expansion-panel-header/span/mat-panel-title/div/span[3]</value>
+      <webElementGuid>5009d3ed-b176-4467-b484-c70596881f13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Procedures' or . = 'Procedures')]</value>
+      <webElementGuid>7267fb17-fddb-454e-807c-cc83864562ed</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

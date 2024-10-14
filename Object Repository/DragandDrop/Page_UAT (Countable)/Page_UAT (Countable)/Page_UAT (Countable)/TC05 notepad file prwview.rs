@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>TC05 notepad file prwview</name>
+   <tag></tag>
+   <elementGuidId>96da5bd3-6436-46dd-93ae-78572ad7dc89</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[(text() = 'TB-3-5576.txt' or . = 'TB-3-5576.txt')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f29862d3-36ce-4366-b888-bbc80776721d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>item-title</value>
+      <webElementGuid>5e6223b8-2cb0-4e21-96d7-4370795e0b56</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>TB-2-5576.txt</value>
+      <webElementGuid>f3b7428e-3da8-4212-bba9-d76e1c344104</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tbDoc-TB-2-5576.txt&quot;)/div[@class=&quot;cdk-drag list-item-content&quot;]/span[@class=&quot;item-title&quot;]</value>
+      <webElementGuid>e5cba568-f45f-488c-840c-7aa9ceec6391</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='tbDoc-TB-2-5576.txt']/div/span[3]</value>
+      <webElementGuid>02565bf3-d09b-435b-8058-bd81ad45eb41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TB-1-02 Rename Via Automation .csv'])[1]/following::span[8]</value>
+      <webElementGuid>79eb83b3-3054-403d-9998-c01a83d78758</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Trial Balance &amp; Adj. Entries'])[1]/following::span[15]</value>
+      <webElementGuid>c975a358-5473-44ca-9b28-e5b832aaa0b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TB-3-AUWODC.docx'])[1]/preceding::span[8]</value>
+      <webElementGuid>84ff9fe2-5115-4dc5-b51d-6280909f57d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TB-4-AUEXDC.csv'])[1]/preceding::span[16]</value>
+      <webElementGuid>d040afa0-d30e-485f-92c2-b6ffec03e444</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='TB-2-5576.txt']/parent::*</value>
+      <webElementGuid>4dd249c9-00a5-4020-ac7a-0f3c3cea2e56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/div/span[3]</value>
+      <webElementGuid>1320a6b0-a58b-44e3-9a2d-44b7458b033a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'TB-2-5576.txt' or . = 'TB-2-5576.txt')]</value>
+      <webElementGuid>1fa2a47b-1957-4d4d-960c-b291db21f068</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

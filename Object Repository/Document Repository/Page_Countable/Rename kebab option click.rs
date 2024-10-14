@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Rename kebab option click</name>
+   <tag></tag>
+   <elementGuidId>2e8949d0-660d-4cc2-bf10-c2ede5b97d93</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div[dir='ltr'] button:nth-child(1) span:nth-child(1)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[(text() = 'Rename' or . = 'Rename')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b38723a0-9c85-491d-99cd-02f0160cbc10</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-mdc-menu-item-text</value>
+      <webElementGuid>4a4d6f20-d8bd-4768-942c-00ec36963464</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Rename</value>
+      <webElementGuid>b7ac5fe8-2963-4f3f-af30-dea3481266f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-menu-panel-85&quot;)/div[@class=&quot;mat-mdc-menu-content ng-tns-c681116372-410&quot;]/div[@class=&quot;ng-tns-c681116372-410&quot;]/button[@class=&quot;mat-mdc-menu-item mat-mdc-focus-indicator cdk-focused cdk-mouse-focused&quot;]/span[@class=&quot;mat-mdc-menu-item-text&quot;]</value>
+      <webElementGuid>68393848-f5e1-4895-a9bd-972037c1b7fe</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mat-menu-panel-85']/div/div/button/span</value>
+      <webElementGuid>e55dbe8e-4819-4d9b-9115-0cc1526eaaeb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sort'])[1]/following::span[1]</value>
+      <webElementGuid>623b132b-e130-4e9b-b6a8-b1960d4ed79b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='clear'])[2]/following::span[4]</value>
+      <webElementGuid>a4a5fa56-b809-4a81-a48f-abe9ef346d04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Download'])[1]/preceding::span[1]</value>
+      <webElementGuid>a2846baa-d8ee-4034-80d8-fbc8c37950fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete'])[2]/preceding::span[2]</value>
+      <webElementGuid>451a494c-fa92-41c8-9c46-13e4f86e830c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Rename']/parent::*</value>
+      <webElementGuid>484cac04-0af0-427e-821b-66974def9ef6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/button/span</value>
+      <webElementGuid>5726d32d-3de1-4750-8946-ee8c597e2394</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Rename' or . = 'Rename')]</value>
+      <webElementGuid>aaa0902f-e034-4e40-adfc-a042b2f400a9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

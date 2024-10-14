@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>PDF click</name>
+   <tag></tag>
+   <elementGuidId>ef3323a6-01ff-4b6b-bb1a-aa16840997a0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[(text() = 'PDF')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.mat-mdc-menu-item.mat-mdc-focus-indicator.ng-star-inserted.cdk-focused.cdk-mouse-focused > span.mat-mdc-menu-item-text > span.item-title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f66d5002-df0e-4bb4-baa5-d2d351aee3cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>item-title</value>
+      <webElementGuid>2e894473-d838-4eb9-9987-d8120a2913a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>PDF</value>
+      <webElementGuid>7acd38e3-53de-4f80-b89d-57d8732947a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-menu-panel-459&quot;)/div[@class=&quot;mat-mdc-menu-content ng-tns-c681116372-1743&quot;]/div[@class=&quot;ng-tns-c681116372-1743&quot;]/button[@class=&quot;mat-mdc-menu-item mat-mdc-focus-indicator ng-star-inserted cdk-focused cdk-mouse-focused&quot;]/span[@class=&quot;mat-mdc-menu-item-text&quot;]/span[@class=&quot;item-title&quot;]</value>
+      <webElementGuid>d12e2a42-46ce-4f78-8665-a01efaf6ab38</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mat-menu-panel-459']/div/div/button[4]/span/span</value>
+      <webElementGuid>6ff29122-a5be-407b-941c-8e987055b070</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Type'])[2]/following::span[2]</value>
+      <webElementGuid>30257a91-83c7-42d0-acb4-7c953cabfce1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Oldest on Top'])[1]/following::span[4]</value>
+      <webElementGuid>90f1b208-2b1a-4b8d-87e7-841100da650e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Excel'])[1]/preceding::span[2]</value>
+      <webElementGuid>22aef0ac-b7bd-4127-92f3-34e2c693dd2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Word'])[1]/preceding::span[4]</value>
+      <webElementGuid>e642125d-484b-440a-b008-7731319da6c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='PDF']/parent::*</value>
+      <webElementGuid>5b57083f-fca6-4bd8-b0e6-956b3af0c6d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[4]/span/span</value>
+      <webElementGuid>674f72d9-f781-4f6d-9708-9c8d0d6ff819</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'PDF' or . = 'PDF')]</value>
+      <webElementGuid>ce092a53-cc3a-4865-aa23-46d917b5d385</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

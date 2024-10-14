@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Popup click yes</name>
+   <tag></tag>
+   <elementGuidId>8a5aa6da-eb8d-486e-a18b-57c831cb121c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.button-medium.mdc-button.mat-mdc-button.mdc-button--unelevated.mat-mdc-unelevated-button.mat-primary.mat-mdc-button-base.cdk-focused.cdk-mouse-focused > span.mdc-button__label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[normalize-space()='Yes']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Yes&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a96209c6-8273-4cdf-8d8d-4fc11ccfac3e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mdc-button__label</value>
+      <webElementGuid>cce85fce-06fc-4803-bfc2-ed4cd4c7c815</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Yes </value>
+      <webElementGuid>88e8f8bf-e7f1-48f6-9f20-1e4f913a4c19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;new_copy_dropped_file&quot;)/div[@class=&quot;mdc-dialog__container&quot;]/div[@class=&quot;mat-mdc-dialog-surface mdc-dialog__surface&quot;]/div[@class=&quot;countable-dialog createaNewCopy w-400 ng-star-inserted&quot;]/div[@class=&quot;mat-mdc-dialog-actions mdc-dialog__actions dialog-footer button-group&quot;]/button[@class=&quot;button-medium mdc-button mat-mdc-button mdc-button--unelevated mat-mdc-unelevated-button mat-primary mat-mdc-button-base cdk-focused cdk-mouse-focused&quot;]/span[@class=&quot;mdc-button__label&quot;]</value>
+      <webElementGuid>c8536d6c-7265-4b19-87ad-b6822e5072a6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-dialog-container[@id='new_copy_dropped_file']/div/div/div/div[3]/button[2]/span[2]</value>
+      <webElementGuid>b51fc1ba-0920-4815-8b8c-a1db76d9b9ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[13]/following::span[4]</value>
+      <webElementGuid>9a4aad62-8b0e-4a0b-99ea-3ba71b8bb2dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please rename the document'])[1]/following::span[7]</value>
+      <webElementGuid>b611560d-0022-46f0-8601-87ed2d84f540</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/button[2]/span[2]</value>
+      <webElementGuid>d0713446-ae10-40d1-a3e2-18618df4ac56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Yes ' or . = 'Yes ')]</value>
+      <webElementGuid>6875b69f-3a4d-4bf2-bbeb-085ad8edcb3a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

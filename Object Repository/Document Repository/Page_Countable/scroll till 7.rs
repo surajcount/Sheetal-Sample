@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>scroll till 7</name>
+   <tag></tag>
+   <elementGuidId>ad8484be-0598-45ba-87b0-c0aadfde2f9f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[(text() = '4.pdf' or . = '4.pdf')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a6dade6b-8cd8-4eec-835e-a763b1aa4e54</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>inline</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>5b707c4d-f357-41dc-afc0-2284ed857d72</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>item-title ng-star-inserted</value>
+      <webElementGuid>82af1ecc-2446-41a9-9f7a-c86fa159ac3e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>4.pdf</value>
+      <webElementGuid>824717a2-b216-4363-b523-0fd897b835ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-accordion-child-311&quot;)/div[@class=&quot;mat-expansion-panel-body ng-tns-c1859850774-870&quot;]/ul[@class=&quot;templates-list-items ng-tns-c1859850774-870&quot;]/li[@class=&quot;list-item-content h-auto py-2 ng-star-inserted&quot;]/span[@class=&quot;item-title ng-star-inserted&quot;]</value>
+      <webElementGuid>9bf6c6f3-ded0-45d8-a626-a6fb73fae56a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cdk-accordion-child-311']/div/ul/li[2]/span[3]</value>
+      <webElementGuid>5b712845-cd46-43d8-923a-1a5a17c9d0f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='A-1-'])[3]/following::span[1]</value>
+      <webElementGuid>c0e97315-f184-4415-bde5-3c886aa8b250</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EL-1-'])[2]/following::span[8]</value>
+      <webElementGuid>70614b10-3a44-4cca-b4f2-a006859fda5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='UB-1-'])[5]/preceding::span[6]</value>
+      <webElementGuid>7ca12270-acd8-4fab-b315-0f435a35b6dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Trial Balance Grou...'])[16]/preceding::span[7]</value>
+      <webElementGuid>eec3acb4-c773-4291-8ee8-c70c8231f16d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='4.pdf']/parent::*</value>
+      <webElementGuid>102d5c0e-40a0-458c-aba1-2017958790d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-expansion-panel[5]/div/div/mat-expansion-panel/div/div/mat-expansion-panel[2]/div/div/ul/li[2]/span[3]</value>
+      <webElementGuid>c2d85779-db4a-402d-95fc-2e5d7c4217a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '4.pdf' or . = '4.pdf')]</value>
+      <webElementGuid>33e0c9fe-42e7-46e2-99ca-5bca6daf2a4f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

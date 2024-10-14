@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>TC05 Delete icon mid ref</name>
+   <tag></tag>
+   <elementGuidId>49db3b43-66c5-48f3-a806-a14b3ce6232a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>tbody tr:nth-child(1) td:nth-child(8) button:nth-child(1) span:nth-child(2) span:nth-child(1) span:nth-child(1)</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@src = '/assets/images/ui-uplift-icons/global/trash-04.svg' and @alt = 'icon']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[@src = '/assets/images/ui-uplift-icons/global/trash-04.svg' and @alt = 'icon']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>8acb5d1e-8374-416a-9313-35f3ad3ec42f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/assets/images/ui-uplift-icons/global/trash-04.svg</value>
+      <webElementGuid>4dbeafc1-8e5d-4af3-90bf-321a418e20a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>icon</value>
+      <webElementGuid>c9cc84f3-2d5b-4413-b5a4-ab55c7f5e5e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>16</value>
+      <webElementGuid>b873bd2b-1c0d-4b1b-acdb-5d8bacf5c877</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-menu-panel-100&quot;)/div[@class=&quot;mat-mdc-menu-content ng-tns-c681116372-450&quot;]/div[@class=&quot;selected-ref ng-tns-c681116372-450&quot;]/mat-list[@class=&quot;mat-mdc-list mat-mdc-list-base mdc-list templates-list-item p-0 scroll-down-bar-right-side&quot;]/mat-list-item[@class=&quot;mat-mdc-list-item mdc-list-item px-0 mat-mdc-list-item-single-line mdc-list-item--with-one-line ng-star-inserted&quot;]/span[@class=&quot;mdc-list-item__content&quot;]/span[@class=&quot;mat-mdc-list-item-unscoped-content mdc-list-item__primary-text&quot;]/div[@class=&quot;list-item-content cursor-default&quot;]/button[@class=&quot;button-text mdc-button mat-mdc-button mat-unthemed mat-mdc-button-base&quot;]/span[@class=&quot;mdc-button__label&quot;]/img[1]</value>
+      <webElementGuid>58ee0fba-4356-4ce5-804c-324355ec45ae</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mat-menu-panel-100']/div/div/mat-list/mat-list-item/span/span/div/button/span[2]/img</value>
+      <webElementGuid>dc3a1a57-b507-4d26-aac4-83f5facb4aba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>(//img[@alt='icon'])[130]</value>
+      <webElementGuid>e2320801-de0f-4e71-bffe-1a221a06e45d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/div/button/span[2]/img</value>
+      <webElementGuid>2c9b7501-4f34-476b-8417-cbe8e85b31d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/assets/images/ui-uplift-icons/global/trash-04.svg' and @alt = 'icon']</value>
+      <webElementGuid>5eff5323-6d2e-4eb1-a859-7180d24be347</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

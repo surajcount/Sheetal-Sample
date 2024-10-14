@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>TC05 Document Upload kebab 01</name>
+   <tag></tag>
+   <elementGuidId>005cd564-2c4a-4e4d-a766-e6cec4274f42</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-panel-title[@id='trialBalance']/div/span/button/span[2]/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.mat-mdc-menu-trigger.kebab-menu-button.mdc-button.mat-mdc-button.mat-unthemed.mat-mdc-button-base.ng-star-inserted.cdk-focused.cdk-mouse-focused > span.mat-mdc-button-touch-target</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f34b7df5-5a0e-431c-89f1-8f0ef1a4015b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-mdc-button-touch-target</value>
+      <webElementGuid>a9b23f1e-ad41-4bbe-a488-bb0302e11638</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-expansion-panel-header-118&quot;)/span[@class=&quot;mat-content ng-tns-c1676997785-274 mat-content-hide-toggle&quot;]/mat-panel-title[@id=&quot;clientOnboardMenu-1&quot;]/div[@class=&quot;signOff-panel-wrapper child-level-signoff&quot;]/div[@class=&quot;title-content&quot;]/button[@class=&quot;mat-mdc-menu-trigger kebab-menu-button mdc-button mat-mdc-button mat-unthemed mat-mdc-button-base ng-star-inserted cdk-focused cdk-mouse-focused&quot;]/span[@class=&quot;mat-mdc-button-touch-target&quot;]</value>
+      <webElementGuid>8ac9c4dc-1715-402d-ab51-b97135275dd9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-panel-title[@id='clientOnboardMenu-1']/div/div/button/span[4]</value>
+      <webElementGuid>f6e6e2f6-0a94-4ad8-b932-95aef18ece0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/mat-expansion-panel[2]/mat-expansion-panel-header/span/mat-panel-title/div/div/button/span[4]</value>
+      <webElementGuid>2643f2b8-ff37-4aab-a086-33923ac69810</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

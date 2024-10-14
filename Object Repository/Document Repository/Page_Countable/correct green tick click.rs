@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>correct green tick click</name>
+   <tag></tag>
+   <elementGuidId>09bcaa90-db65-4f76-9ebf-e85eda9edb42</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@title='Save']//span[@class='mat-mdc-button-touch-target']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.mdc-button.mat-mdc-button.mat-success.mat-mdc-button-base.cdk-focused.cdk-mouse-focused > span.mat-mdc-button-touch-target</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>abc8ad74-579f-4a55-8828-2e0c8ff2ffe3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-mdc-button-touch-target</value>
+      <webElementGuid>841ea839-56e0-4520-b29d-56cf153e810e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-accordion-child-57&quot;)/div[@class=&quot;mat-expansion-panel-body ng-tns-c1859850774-171&quot;]/ul[@class=&quot;templates-list-items ng-star-inserted&quot;]/li[@class=&quot;list-item-content h-auto py-2&quot;]/mat-form-field[@class=&quot;mat-mdc-form-field fixed-label icon-form-after action-2 w-100 form-field-medium ng-tns-c1798928316-413 mat-mdc-form-field-type-mat-input mat-mdc-form-field-has-icon-suffix mat-form-field-appearance-fill mat-primary ng-valid ng-star-inserted ng-dirty ng-touched&quot;]/div[@class=&quot;mat-mdc-text-field-wrapper mdc-text-field ng-tns-c1798928316-413 mdc-text-field--filled mdc-text-field--no-label&quot;]/div[@class=&quot;mat-mdc-form-field-flex ng-tns-c1798928316-413&quot;]/div[@class=&quot;mat-mdc-form-field-icon-suffix ng-tns-c1798928316-413 ng-star-inserted&quot;]/div[@class=&quot;actions border-start ng-tns-c1798928316-413&quot;]/button[@class=&quot;mdc-button mat-mdc-button mat-success mat-mdc-button-base cdk-focused cdk-mouse-focused&quot;]/span[@class=&quot;mat-mdc-button-touch-target&quot;]</value>
+      <webElementGuid>e9775a19-8d26-44f0-9602-1c829dacbe59</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cdk-accordion-child-57']/div/ul[3]/li/mat-form-field/div/div[2]/div[2]/div/button/span[4]</value>
+      <webElementGuid>a4f821c3-a4bf-4ffd-967a-c72995deada0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/button/span[4]</value>
+      <webElementGuid>7d88d029-703e-4d9f-b592-8cb17371942f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

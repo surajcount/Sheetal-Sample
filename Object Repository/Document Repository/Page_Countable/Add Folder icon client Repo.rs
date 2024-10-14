@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Add Folder icon client Repo</name>
+   <tag></tag>
+   <elementGuidId>6c675238-d167-4d7e-b805-7f78fc853411</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[2]/button[2]/span[2]/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.mdc-button__label > img[alt=&quot;icon&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>854b5b9e-7ff5-4bbf-835b-e141c6d14c50</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/assets/images/ui-uplift-icons/global/add-folder-icon.svg</value>
+      <webElementGuid>e0bec500-6420-4673-9740-673eb82d4268</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>icon</value>
+      <webElementGuid>ea36b4c8-7c5e-4f37-b4c3-e654ea828b5b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-tab-content-9-0&quot;)/div[@class=&quot;mat-mdc-tab-body-content ng-tns-c2396234108-851 ng-trigger ng-trigger-translateTab&quot;]/div[@class=&quot;panel-right-content template-block-main overflow-hidden ng-star-inserted&quot;]/div[@class=&quot;search-filter-block gap-12 px-3 py-2 ng-star-inserted&quot;]/button[@class=&quot;button-text mdc-button mat-mdc-button mat-unthemed mat-mdc-button-base&quot;]/span[@class=&quot;mdc-button__label&quot;]/img[1]</value>
+      <webElementGuid>79d71925-9eca-4b91-806f-938c25026c26</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-tab-body[@id='mat-tab-content-9-0']/div/div/div[2]/button[2]/span[2]/img</value>
+      <webElementGuid>928704a1-9154-42a4-9b7d-811ffff4167d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>(//img[@alt='icon'])[2]</value>
+      <webElementGuid>9b82ef7f-f466-45d8-a9a6-48b995b8af10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button[2]/span[2]/img</value>
+      <webElementGuid>cf3858bc-ac66-4eb0-bb6e-6f9d46f8cf12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/assets/images/ui-uplift-icons/global/add-folder-icon.svg' and @alt = 'icon']</value>
+      <webElementGuid>1ef5177b-6fc6-4d79-ba10-30a9361ece08</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

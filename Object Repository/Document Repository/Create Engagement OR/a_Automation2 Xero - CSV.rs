@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Automation2 Xero - CSV</name>
+   <tag></tag>
+   <elementGuidId>f868a835-5e3c-4903-ab40-6fda3d958b1c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-tab-body[@id='mat-tab-content-1-0']/div/div/table/tbody/tr[14]/td[3]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Automation2 Xero&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>3f8c46f3-7f02-44a5-8c21-87186a446a39</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:void(0)</value>
+      <webElementGuid>b2430830-e479-49a5-9850-6816deb269f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-link</value>
+      <webElementGuid>3650ddbc-f307-4292-8742-8a6e05da8c4f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Automation2 Xero</value>
+      <webElementGuid>f66cd2d1-8c62-4366-9149-25b182c62c4b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-tab-content-1-0&quot;)/div[@class=&quot;mat-mdc-tab-body-content ng-tns-c2396234108-554 ng-trigger ng-trigger-translateTab&quot;]/div[@class=&quot;card table-responsive ng-star-inserted&quot;]/table[@class=&quot;mat-mdc-table mdc-data-table__table cdk-table mat-sort customized-sort table-countable cell-p-8&quot;]/tbody[@class=&quot;mdc-data-table__content&quot;]/tr[@class=&quot;mat-mdc-row mdc-data-table__row cdk-row ng-star-inserted&quot;]/td[@class=&quot;mat-mdc-cell mdc-data-table__cell cdk-cell cdk-column-corporationName mat-column-corporationName ng-star-inserted&quot;]/a[@class=&quot;text-link&quot;]</value>
+      <webElementGuid>e76cd604-b134-46b4-aa65-1d12a65dc539</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-tab-body[@id='mat-tab-content-1-0']/div/div/table/tbody/tr[14]/td[3]/a</value>
+      <webElementGuid>0f31d695-37df-43d5-9204-5f71764202bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Automation2 Xero')]</value>
+      <webElementGuid>67c8d44f-8ef0-4958-8d1a-18cd5211f9c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[28]/following::a[1]</value>
+      <webElementGuid>51724b8a-ba5f-473b-91a2-97fb268611ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[27]/following::a[2]</value>
+      <webElementGuid>06a87f91-e851-4425-96a6-857fb0e49786</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Corporation'])[14]/preceding::a[1]</value>
+      <webElementGuid>6600e48e-10b0-4ecf-b66a-2ca8fe8664a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Integrations'])[14]/preceding::a[1]</value>
+      <webElementGuid>8d2a44b5-7325-4f18-af83-97b34d378db1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Automation2 Xero']/parent::*</value>
+      <webElementGuid>b69c475a-03c6-4d3d-930f-e23611ee6834</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'javascript:void(0)')])[38]</value>
+      <webElementGuid>dca443c1-a2a7-4c13-b156-d0c0a3c55b80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[14]/td[3]/a</value>
+      <webElementGuid>88053962-5404-4ebd-8d30-d54c709666b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'javascript:void(0)' and (text() = ' Automation2 Xero' or . = ' Automation2 Xero')]</value>
+      <webElementGuid>1acd811b-7508-4e90-a315-139076e681b2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

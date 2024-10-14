@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>EngagementID-Click</name>
+   <tag></tag>
+   <elementGuidId>567c2b27-337a-4f2f-84c7-6b754d7afb22</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ft-cell.engagement-id</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//span[@class='mdc-button__label'][normalize-space()='REV-RET-Apr242024'])[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#mat-expansion-panel-header-0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>559f06de-b6af-4e7e-adc3-9f9203b7c3f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ft-cell engagement-id</value>
+      <webElementGuid>93658828-9030-415c-bb28-db4559237a14</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>REV-RET-Apr242024</value>
+      <webElementGuid>379266e0-53ba-4f67-9307-a50535970e07</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-expansion-panel-header-0&quot;)/span[@class=&quot;mat-content ng-tns-c1676997785-11&quot;]/div[@class=&quot;ft-row border-0 ng-tns-c1676997785-11&quot;]/div[@class=&quot;ft-cell engagement-id&quot;]</value>
+      <webElementGuid>e4f924cc-c9b6-403e-b8b6-6c9b6f37934d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-expansion-panel-header[@id='mat-expansion-panel-header-0']/span/div/div</value>
+      <webElementGuid>d8b48848-8820-4bfe-84cc-ff7ffc982807</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search engagements'])[1]/following::div[11]</value>
+      <webElementGuid>a3668b03-30a3-4aac-ac82-40e87de78abe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Engagements'])[2]/following::div[17]</value>
+      <webElementGuid>83328168-2db3-496b-a320-cf82767e43f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EL'])[1]/preceding::div[3]</value>
+      <webElementGuid>2504d841-e1a3-4934-b7bd-529787a9bc50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/div/div</value>
+      <webElementGuid>65769d84-f5c6-47fc-ac1d-769e154316ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'REV-RET-Apr242024' or . = 'REV-RET-Apr242024')]</value>
+      <webElementGuid>d072ccbc-f113-41e5-bfba-b9686610a15c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
